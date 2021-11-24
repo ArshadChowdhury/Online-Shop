@@ -70,7 +70,7 @@ body {
 
 .main-header {
   background-color: rgba(0, 0, 0, 0.6);
-  background-image: url("/images/lp.jpg");
+  background-image: url("images/lp.jpg");
   background-blend-mode: multiply;
   background-size: contain;
   padding-bottom: 30px;

@@ -8,5 +8,5 @@
 ### Only when you add something to cart thn press purchase it'll thank you for your purchase.
 ### Nothing too fancy but good to see it's all working just fine.
 
-# here's a preview of the shop - 
+# here's a preview screenshot of the shop - 
 ![online_shop](https://user-images.githubusercontent.com/86738490/154107516-c55c8f9e-e29f-4029-b4a5-76ce2a0f42d2.png)

@@ -1,7 +1,7 @@
 ## Online Shop
 
 ## This is an online shop for the band Linkin Park. <br>
-### It is not a real shop of course, but you can buy stuff as I've linked real Linkin Park's website here, if you click on them it'll redirect you to real website <br>
+### It is not a real shop of course, but you can buy stuff as I've linked the real Linkin Park's website link here, if you click on them it'll redirect you to real website <br>
 ### I'm just practicing my Javascript skills to make a cart and make it like real. <br>
 ### I made sure, you can't put in negative number orders, the cart updates automatically with the increasing quantity and all the buttons work.
 ### If you press the purchase button without anything in the cart it'll check that and let you know that you need to add something in the cart first to place order.
